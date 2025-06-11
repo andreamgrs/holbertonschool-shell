@@ -8,4 +8,5 @@ Script 6-firstdirectory to create a directory
 Script 7-movethatfile to move file
 Script 8-firstdelete to delete file
 Script 9-firstdirdeletion to delete a dir
-Script 10-back to go to the prev dir 
+Script 10-back to go to the prev dir
+Script 11-lists lists all files 
