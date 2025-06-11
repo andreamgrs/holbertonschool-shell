@@ -5,4 +5,6 @@ Script 3-listfiles to show in a long format
 Script 4-listmorefiles include hidden files
 Script 5-listfilesdigitonly for display long, numerically and hidden files
 Script 6-firstdirectory to create a directory
-Script 7-movethatfile to move file 
+Script 7-movethatfile to move file
+Script 8-firstdelete to delete file
+Script 9-firstdirdeletion to delete a dir 
