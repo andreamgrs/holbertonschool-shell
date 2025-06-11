@@ -11,4 +11,5 @@ Script 9-firstdirdeletion to delete a dir
 Script 10-back to go to the prev dir
 Script 11-lists lists all files
 Script 12-file_type to see the type of the files
-Script 13-symbolic_link create a symbolic link 
+Script 13-symbolic_link create a symbolic link
+Script 14-copy_html copies all the HTML files from the current working directory to the parent of the working directory 
